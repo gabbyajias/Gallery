@@ -1,6 +1,7 @@
 .bg-hero-image{
     background-image: url("/imgs/images.jpg");
     background-position: center center;
+    
 }
 body{
     background-color:rgb(197, 186, 190)
